@@ -1,1 +1,1 @@
-return{"Patched"}
+return{"LOL"}
